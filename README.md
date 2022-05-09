@@ -59,25 +59,24 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 
 ### Home Page
 
-![home](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(117).png)
+![home](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(2).png)
+ 
+### About
+
+![about](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(7).png)
 
 ### QnA
 
-![QnA](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(130).png)
+![QnA](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(8).png)
 
 ### Review
 
-![Review](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(127).png)
+![Review](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(4).png)
 
 ### Explore
 
-![explore](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(128).png)
+![explore](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(5).png)
 
 ### Gallery 
 
-![gallery](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(129).png)
-
-### About
-
-![about](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(132).png)
- 
+![gallery](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/Screenshot%20(1).png)
