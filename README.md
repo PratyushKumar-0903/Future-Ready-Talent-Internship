@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge)()
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)(https://www.linkedin.com/in/pratyush-k-350808119/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/pratyush-k-350808119/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
 This is a 5 Page Tourism Front End website design
