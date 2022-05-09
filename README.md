@@ -48,7 +48,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 
 <b>Project Link : </b>https://yellow-wave-0286d7c10.1.azurestaticapps.net/
 
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/FRT.jpeg" width="700" height= "350"></p></a>  
+<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
 # Project Video Presentation
 
