@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Contributors](https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge)()
+[![Contributors](https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge)](https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/graphs/contributors)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/pratyush-k-350808119/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
