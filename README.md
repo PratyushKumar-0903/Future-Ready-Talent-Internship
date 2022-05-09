@@ -1,4 +1,4 @@
-# <a href="https://yellow-wave-0286d7c10.1.azurestaticapps.net/">Tourism Website with QnA Bot</a>
+# <a href="https://zealous-bay-016717d10.1.azurestaticapps.net">Tourism Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>https://yellow-wave-0286d7c10.1.azurestaticapps.net/
+<b>Project Link : </b>https://zealous-bay-016717d10.1.azurestaticapps.net
 
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/PratyushKumar-0903/Future-Ready-Talent-Internship/blob/master/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
