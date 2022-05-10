@@ -53,7 +53,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 # Project Video Presentation
 
 - `CLICK ON THE THUMBNAIL (IMAGE) TO VIEW THE VIDEO` <br><br>
-[![Tourism Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar) <br>
+[![Tourism Website with QnA Bot](https://img.youtube.com/vi/DODl4Ge_LzE/0.jpg)](https://youtu.be/DODl4Ge_LzE) <br>
  
  # SCREENSHOTS
 
